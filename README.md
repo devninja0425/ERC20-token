@@ -1,6 +1,6 @@
 <h1>ERC20 token with Solidity ⛓💰</h1>
 
-<p>Creating a token in bsc and polygon matic, it was fun and I think it's a super good exercise to reaffirm the fundamentals and scale a bit in security, of course it's a very basic token, using SafeMath, and creating an interface to add functions to the contract .</p>
+<p>Creating a token in bsc and polygon matic network, it was fun and I think it's a super good exercise to reaffirm the fundamentals and scale a bit in security, of course it's a very basic token, using SafeMath, and creating an interface to add functions to the contract .</p>
 
 
 <p>You can see the smart contract on Bscscan: <a href="https://testnet.bscscan.com/address/0x943c9db7618bebcb1c4fa4ceca0afa48b1c718da#code"> Token </a></p>
